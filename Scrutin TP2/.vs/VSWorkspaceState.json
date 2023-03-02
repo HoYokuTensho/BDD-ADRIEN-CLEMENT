@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BDD-scrutin-main",
+    "\\BDD-scrutin-main\\.idea",
+    "\\BDD-scrutin-main\\.idea\\.idea.scrutin",
+    "\\BDD-scrutin-main\\.idea\\.idea.scrutin\\.idea",
+    "\\BDD-scrutin-main\\scrutin",
+    "\\BDD-scrutin-main\\ScrutinTest",
+    "\\BDD-scrutin-main\\ScrutinTest\\Features",
+    "\\BDD-scrutin-main\\ScrutinTest\\Hooks",
+    "\\BDD-scrutin-main\\ScrutinTest\\Steps"
+  ],
+  "SelectedNode": "\\BDD-scrutin-main\\ScrutinTest\\Features\\Scrutin.feature",
+  "PreviewInSolutionExplorer": false
+}

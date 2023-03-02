@@ -1,0 +1,5 @@
+/home/clement/RiderProjects/scrutin/scrutin-test/obj/Debug/net6.0/scrutin-test.csproj.AssemblyReference.cache
+/home/clement/RiderProjects/scrutin/scrutin-test/obj/Debug/net6.0/scrutin-test.GeneratedMSBuildEditorConfig.editorconfig
+/home/clement/RiderProjects/scrutin/scrutin-test/obj/Debug/net6.0/scrutin-test.AssemblyInfoInputs.cache
+/home/clement/RiderProjects/scrutin/scrutin-test/obj/Debug/net6.0/scrutin-test.AssemblyInfo.cs
+/home/clement/RiderProjects/scrutin/scrutin-test/obj/Debug/net6.0/scrutin-test.csproj.CoreCompileInputs.cache

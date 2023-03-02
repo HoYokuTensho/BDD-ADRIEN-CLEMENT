@@ -1,0 +1,24 @@
+/home/clement/RiderProjects/scrutin/scrutin/bin/Debug/net6.0/scrutin.deps.json
+/home/clement/RiderProjects/scrutin/scrutin/bin/Debug/net6.0/scrutin.dll
+/home/clement/RiderProjects/scrutin/scrutin/bin/Debug/net6.0/ref/scrutin.dll
+/home/clement/RiderProjects/scrutin/scrutin/bin/Debug/net6.0/scrutin.pdb
+/home/clement/RiderProjects/scrutin/scrutin/obj/Debug/net6.0/scrutin.csproj.AssemblyReference.cache
+/home/clement/RiderProjects/scrutin/scrutin/obj/Debug/net6.0/scrutin.GeneratedMSBuildEditorConfig.editorconfig
+/home/clement/RiderProjects/scrutin/scrutin/obj/Debug/net6.0/scrutin.AssemblyInfoInputs.cache
+/home/clement/RiderProjects/scrutin/scrutin/obj/Debug/net6.0/scrutin.AssemblyInfo.cs
+/home/clement/RiderProjects/scrutin/scrutin/obj/Debug/net6.0/scrutin.csproj.CoreCompileInputs.cache
+/home/clement/RiderProjects/scrutin/scrutin/obj/Debug/net6.0/scrutin.dll
+/home/clement/RiderProjects/scrutin/scrutin/obj/Debug/net6.0/ref/scrutin.dll
+/home/clement/RiderProjects/scrutin/scrutin/obj/Debug/net6.0/scrutin.pdb
+C:\Users\adrie\Desktop\Scrutin TP2\scrutin\bin\Debug\net6.0\scrutin.deps.json
+C:\Users\adrie\Desktop\Scrutin TP2\scrutin\bin\Debug\net6.0\scrutin.dll
+C:\Users\adrie\Desktop\Scrutin TP2\scrutin\bin\Debug\net6.0\scrutin.pdb
+C:\Users\adrie\Desktop\Scrutin TP2\scrutin\obj\Debug\net6.0\scrutin.csproj.AssemblyReference.cache
+C:\Users\adrie\Desktop\Scrutin TP2\scrutin\obj\Debug\net6.0\scrutin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrie\Desktop\Scrutin TP2\scrutin\obj\Debug\net6.0\scrutin.AssemblyInfoInputs.cache
+C:\Users\adrie\Desktop\Scrutin TP2\scrutin\obj\Debug\net6.0\scrutin.AssemblyInfo.cs
+C:\Users\adrie\Desktop\Scrutin TP2\scrutin\obj\Debug\net6.0\scrutin.csproj.CoreCompileInputs.cache
+C:\Users\adrie\Desktop\Scrutin TP2\scrutin\obj\Debug\net6.0\scrutin.dll
+C:\Users\adrie\Desktop\Scrutin TP2\scrutin\obj\Debug\net6.0\refint\scrutin.dll
+C:\Users\adrie\Desktop\Scrutin TP2\scrutin\obj\Debug\net6.0\scrutin.pdb
+C:\Users\adrie\Desktop\Scrutin TP2\scrutin\obj\Debug\net6.0\ref\scrutin.dll
